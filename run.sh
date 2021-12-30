@@ -1,6 +1,9 @@
 #!/bin/bash
-                                                                      cat .gun
-cat << eof                                                               Scraping zone-xsec.com by ./meicookies
+                                                                     
+                                                                     
+cat .gun
+cat << eof                                    
+   Scraping zone-xsec.com by ./meicookies
    Anonsec Team | Indonesian Hacktivist
 eof
 PS3="Select: "
